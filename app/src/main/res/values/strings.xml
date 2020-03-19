@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CafeStalk</string>
+    <string name="menu_home">Anasayfa</string>
+    <string name="menu_order">Sipariş Ver</string>
+    <string name="menu_myorder">Siparişlerim</string>
+    <string name="menu_send">İletişim</string>
+    <string name="menu_logout">Çıkış Yap</string>
+
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_title">cafeStalk</string>
+    <string name="nav_header_subtitle">info@cafestalk.com</string>
+
+    <string name="navigation_open_drawer">Open Navigation Drawer</string>
+    <string name="navigation_close_drawer">Close Navigation Drawer</string>
+</resources>
